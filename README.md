@@ -1,0 +1,1 @@
+Third version of a pre-conditioning circuit for an analog PCG signal based on a piezoelectric sensor.
