@@ -502,7 +502,7 @@
       "netlist": "",
       "plot": "",
       "pos_files": "",
-      "specctra_dsn": "../../../../Downloads/freerouting-2.2.4-linux-x64/bin/PCB_piezo-filter_v3.dsn",
+      "specctra_dsn": "PCB_piezo-filter_v3.dsn",
       "step": "PCB_piezo-filter_v3.step",
       "svg": "",
       "vrml": ""
